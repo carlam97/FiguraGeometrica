@@ -27,6 +27,8 @@ public class Principal {
         System.out.println(triangulo.getArea());
         System.out.println(triangulo.getPerimetro());
 
+        sc.close();
+
         
 
     }
